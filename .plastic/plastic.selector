@@ -1,0 +1,4 @@
+repository "Rudro_sphere_task@shabbirrudro@cloud"
+  path "/"
+    br "/main"
+    co "/main"
